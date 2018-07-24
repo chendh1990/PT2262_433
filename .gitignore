@@ -1,0 +1,10 @@
+/Debug/
+/log/
+/settings/
+/SiPro/
+*.tmp
+*.dep
+*.ewd
+*.ewp
+*.ewt
+*.eww
